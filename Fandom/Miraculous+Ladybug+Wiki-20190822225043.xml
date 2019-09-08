@@ -1,0 +1,172 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Miraculous Ladybug Wiki</sitename>
+    <dbname>ladybug604</dbname>
+    <base>https://miraculousladybug.fandom.com/wiki/Miraculous_Ladybug_Wiki</base>
+    <generator>MediaWiki 1.19.24</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Miraculous Ladybug Wiki</namespace>
+      <namespace key="5" case="first-letter">Miraculous Ladybug Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>File:Favicon.ico</title>
+    <ns>6</ns>
+    <id>1773</id>
+    <revision>
+      <id>6316</id>
+      <parentid>4465</parentid>
+      <timestamp>2015-11-03T22:42:19Z</timestamp>
+      <contributor>
+        <username>Tansyflower</username>
+        <id>7117024</id>
+      </contributor>
+      <comment>Tansyflower uploaded a new version of &amp;quot;[[File:Favicon.ico]]&amp;quot;</comment>
+      <text xml:space="preserve" bytes="136">The [[Help:Favicon|favicon]] of the wiki. For more information, please visit the [[Help:Favicon|favicon help page]].
+[[Category:Images]]</text>
+      <sha1>c82so8rwzitlicf8blw7rv9bm9887wi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:Wiki-background</title>
+    <ns>6</ns>
+    <id>69434</id>
+    <revision>
+      <id>222592</id>
+      <parentid>209389</parentid>
+      <timestamp>2018-01-26T11:24:36Z</timestamp>
+      <contributor>
+        <username>Tansyflower</username>
+        <id>7117024</id>
+      </contributor>
+      <comment>Tansyflower uploaded a new version of &amp;quot;[[File:Wiki-background]]&amp;quot;: Reverted to version as of 22:22, July 28, 2017</comment>
+      <text xml:space="preserve" bytes="174">The [[Help:Theme designer|background]] of the wiki. To add a background, please use the [[Special:ThemeDesigner|theme designer]].
+[[Category:Images]]
+[[Category:Backgrounds]]</text>
+      <sha1>60gz7kz36uaonal94afpkiuboeqx1gr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:&quot;Zak Storm- Super Pirate&quot; screenshot.png</title>
+    <ns>6</ns>
+    <id>81785</id>
+    <revision>
+      <id>361436</id>
+      <parentid>190083</parentid>
+      <timestamp>2018-12-11T06:22:06Z</timestamp>
+      <contributor>
+        <username>Ivan the Brony Kaiju</username>
+        <id>26323420</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="20">
+[[Category:Images]]</text>
+      <sha1>23mr72h2w7m1igim4kqnfxe0gdgpmdy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:Miraculous Season 2.jpg</title>
+    <ns>6</ns>
+    <id>36998</id>
+    <revision>
+      <id>361441</id>
+      <parentid>56419</parentid>
+      <timestamp>2018-12-11T07:01:59Z</timestamp>
+      <contributor>
+        <username>Ivan the Brony Kaiju</username>
+        <id>26323420</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="20">
+[[Category:Images]]</text>
+      <sha1>23mr72h2w7m1igim4kqnfxe0gdgpmdy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:Miraculous Fanon Wiki.png</title>
+    <ns>6</ns>
+    <id>34382</id>
+    <revision>
+      <id>361447</id>
+      <parentid>51012</parentid>
+      <timestamp>2018-12-11T07:08:05Z</timestamp>
+      <contributor>
+        <username>Ivan the Brony Kaiju</username>
+        <id>26323420</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="20">
+[[Category:Images]]</text>
+      <sha1>23mr72h2w7m1igim4kqnfxe0gdgpmdy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:Screen shot 2015-06-20 at 10.25.55 PM.png</title>
+    <ns>6</ns>
+    <id>2274</id>
+    <revision>
+      <id>361464</id>
+      <parentid>179207</parentid>
+      <timestamp>2018-12-11T08:28:44Z</timestamp>
+      <contributor>
+        <username>Arifin.wijaya</username>
+        <id>16646163</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="99">[[Category:Marinette Dupain-Cheng images]]
+[[Category:&quot;Stormy Weather&quot; images]]
+[[Category:Images]]</text>
+      <sha1>so5ntn4q3b84ezpqrtc9vsxzru5bfmd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:MLB Season 2 Coming Soon.png</title>
+    <ns>6</ns>
+    <id>72058</id>
+    <revision>
+      <id>364036</id>
+      <parentid>148997</parentid>
+      <timestamp>2018-12-15T08:48:15Z</timestamp>
+      <contributor>
+        <username>Ivan the Brony Kaiju</username>
+        <id>26323420</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="48">
+[[Category:Images]]
+[[Category:Season Posters]]</text>
+      <sha1>p9npdvuoy0ng0unfwbjcv86mgdk8ksk</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,1581 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Miraculous Ladybug Wiki</sitename>
+    <dbname>ladybug604</dbname>
+    <base>https://miraculousladybug.fandom.com/wiki/Miraculous_Ladybug_Wiki</base>
+    <generator>MediaWiki 1.19.24</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Miraculous Ladybug Wiki</namespace>
+      <namespace key="5" case="first-letter">Miraculous Ladybug Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Category:Unused concepts</title>
+    <ns>14</ns>
+    <id>2416</id>
+    <revision>
+      <id>245833</id>
+      <parentid>245710</parentid>
+      <timestamp>2018-04-06T19:08:02Z</timestamp>
+      <contributor>
+        <username>TheClydesdalePegasus149</username>
+        <id>26729447</id>
+      </contributor>
+      <minor/>
+      <comment>Undo revision 245710 by [[Special:Contributions/Twilightly|Twilightly]] ([[User talk:Twilightly|talk]])</comment>
+      <text xml:space="preserve" bytes="146">This category is for characters/locations/etc. that were abandoned or excluded from the final product.
+[[Category:Content]]
+[[Category:Non-Canon]]</text>
+      <sha1>rbx1trewpcm4u7sx7zxocchp12bibs1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Galleries</title>
+    <ns>14</ns>
+    <id>3075</id>
+    <revision>
+      <id>12111</id>
+      <parentid>6609</parentid>
+      <timestamp>2016-01-07T14:41:24Z</timestamp>
+      <contributor>
+        <username>D SanCd</username>
+        <id>5272302</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="144">This category is for galleries for [[Miraculous: Tales of Ladybug &amp; Cat Noir|''Miraculous: Tales of Ladybug &amp; Cat Noir'']].
+[[Category:Content]]</text>
+      <sha1>5i8an01cbq38bop54iqf8m78pias27x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Article stubs</title>
+    <ns>14</ns>
+    <id>6064</id>
+    <revision>
+      <id>448037</id>
+      <parentid>447978</parentid>
+      <timestamp>2019-07-30T07:22:41Z</timestamp>
+      <contributor>
+        <username>Alexiel Lucifen</username>
+        <id>24324030</id>
+      </contributor>
+      <text xml:space="preserve" bytes="282">This category lists '''stub articles''' on this wiki.
+
+A stub is a short article that can be expanded with more information on a subject by any user. To mark an article as a &quot;stub&quot; add the code {{t|stub}} to the end of any article.
+[[Category:Site maintenance]]
+[[Category:Content]]</text>
+      <sha1>9tm5ah8j08f086mf4107cfbc4j1a353</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Spoiler</title>
+    <ns>14</ns>
+    <id>5920</id>
+    <revision>
+      <id>236818</id>
+      <parentid>236814</parentid>
+      <timestamp>2018-03-19T10:19:32Z</timestamp>
+      <contributor>
+        <username>Syrénix Sérénité</username>
+        <id>31423444</id>
+      </contributor>
+      <minor/>
+      <comment>Protected &quot;[[Category:Spoiler]]&quot;: To prevent vandalism from occuring (‎[edit=sysop] (indefinite) ‎[move=sysop] (indefinite))</comment>
+      <text xml:space="preserve" bytes="333">This category is for articles containing major spoilers.
+
+'''Use:''' Adding a page in this category hides the page and displays a dialog that asks the visitor if they want to risk seeing spoilers or not. If not, the page will remain hidden. If the visitor accepts, the foreground fades away and reveals the page.
+[[Category:Content]]</text>
+      <sha1>fbh7tfh9n0alwu6qztvt7r5i1j40jvb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Episodes</title>
+    <ns>14</ns>
+    <id>2466</id>
+    <revision>
+      <id>66760</id>
+      <parentid>42261</parentid>
+      <timestamp>2016-08-07T23:24:46Z</timestamp>
+      <contributor>
+        <username>D SanCd</username>
+        <id>5272302</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="119">This category is for the episodes of ''[[Miraculous: Tales of Ladybug &amp; Cat Noir]].''
+{{Episodes}}
+[[Category:Content]]</text>
+      <sha1>74nc47ahooh4qnk5nfafnykod5qid4p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Transcripts</title>
+    <ns>14</ns>
+    <id>4298</id>
+    <revision>
+      <id>14063</id>
+      <parentid>9278</parentid>
+      <timestamp>2016-01-16T18:13:09Z</timestamp>
+      <contributor>
+        <username>LunarSolar</username>
+        <id>4443967</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="90">This is a category page for the English-language episode transcripts.
+[[Category:Content]]</text>
+      <sha1>aeeb34c2gg0md9zezbf5f2p399886vn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Superpowers</title>
+    <ns>14</ns>
+    <id>2886</id>
+    <revision>
+      <id>414441</id>
+      <parentid>264403</parentid>
+      <timestamp>2019-04-15T21:47:09Z</timestamp>
+      <contributor>
+        <username>Alexiel Lucifen</username>
+        <id>24324030</id>
+      </contributor>
+      <text xml:space="preserve" bytes="148">This category is for the [[Miraculous superpowers|superpowers]] of characters, most notably Miraculous holders.
+{{Superpowers}}
+[[Category:Content]]</text>
+      <sha1>502mh0g1mi8nznwul9elv3wr8cc5dym</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Places</title>
+    <ns>14</ns>
+    <id>2808</id>
+    <revision>
+      <id>65514</id>
+      <parentid>65508</parentid>
+      <timestamp>2016-08-01T19:42:43Z</timestamp>
+      <contributor>
+        <username>Inkflight</username>
+        <id>28080187</id>
+      </contributor>
+      <comment>Undo revision 65508 by [[Special:Contributions/PelizTheMiraculousPanda|PelizTheMiraculousPanda]] ([[User talk:PelizTheMiraculousPanda|talk]]) What?</comment>
+      <text xml:space="preserve" bytes="100">This category is for places in ''[[Miraculous: Tales of Ladybug &amp; Cat Noir]].''
+[[Category:Content]]</text>
+      <sha1>fgt8bbkqhu8yjdjivkbf0yczo00bihm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Songs</title>
+    <ns>14</ns>
+    <id>2690</id>
+    <revision>
+      <id>66756</id>
+      <parentid>61710</parentid>
+      <timestamp>2016-08-07T23:24:37Z</timestamp>
+      <contributor>
+        <username>D SanCd</username>
+        <id>5272302</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="152">This category is for the songs related to Miraculous Ladybug and/or from ''[[Miraculous: Tales of Ladybug &amp; Cat Noir]].''
+{{Songs}}
+[[Category:Content]]</text>
+      <sha1>0v2q6sl2ifjqyc7x1n40qyr24giah7g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Promotional Content</title>
+    <ns>14</ns>
+    <id>2090</id>
+    <revision>
+      <id>61712</id>
+      <parentid>4097</parentid>
+      <timestamp>2016-07-13T20:16:45Z</timestamp>
+      <contributor>
+        <username>D SanCd</username>
+        <id>5272302</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="129">This category is for promotional things, including but not limited to videos, magazine articles, or posters.
+[[Category:Content]]</text>
+      <sha1>gxj1gmrlapiox34o6wr3joihk5yk1f7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Comics</title>
+    <ns>14</ns>
+    <id>39162</id>
+    <revision>
+      <id>203498</id>
+      <parentid>203416</parentid>
+      <timestamp>2017-11-06T00:02:23Z</timestamp>
+      <contributor>
+        <username>Mari Bot</username>
+        <id>32635286</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/Mari Bot|Mari Bot]] ([[User talk:Mari Bot|talk]]) to last version by DarkClaw3</comment>
+      <text xml:space="preserve" bytes="147">This page contains all of the comics based on the series ''[[Miraculous: Tales of Ladybug and Cat Noir]]''.
+[[Category:Content]]
+[[Category:Books]]</text>
+      <sha1>os70kict7kjt6ra04b4z66co5xjf29o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Disambiguations</title>
+    <ns>14</ns>
+    <id>1817</id>
+    <revision>
+      <id>61716</id>
+      <parentid>3089</parentid>
+      <timestamp>2016-07-13T20:17:51Z</timestamp>
+      <contributor>
+        <username>D SanCd</username>
+        <id>5272302</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="483">This category contains [[Help:Disambiguation|disambiguation]] pages &amp;mdash; navigational aids which list other pages that might otherwise share the same title. If an internal link referred you to one of these pages, you might want to go back and fix it to point directly to the intended page.
+
+'''Pages may be included in this category by the addition of the template {{t|disambig}} just before the list of similarly-named pages.'''
+[[Category:Content]]
+[[Category:Site maintenance]]</text>
+      <sha1>3110twfll6pqbr0jm43wmjdv5r0sbl6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Games</title>
+    <ns>14</ns>
+    <id>16084</id>
+    <revision>
+      <id>66761</id>
+      <parentid>61717</parentid>
+      <timestamp>2016-08-07T23:24:48Z</timestamp>
+      <contributor>
+        <username>D SanCd</username>
+        <id>5272302</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="121">This category is for the games related to ''[[Miraculous: Tales of Ladybug &amp; Cat Noir]].''
+{{Games}}
+[[Category:Content]]</text>
+      <sha1>a772l5wfjkirh1la9allgeinnokg3t6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Books</title>
+    <ns>14</ns>
+    <id>39163</id>
+    <revision>
+      <id>156804</id>
+      <parentid>61718</parentid>
+      <timestamp>2017-07-21T20:49:07Z</timestamp>
+      <contributor>
+        <username>Tansyflower</username>
+        <id>7117024</id>
+      </contributor>
+      <text xml:space="preserve" bytes="186">{{Youmay|books sold in real life|[[:Category:In-universe books|books that appear within the ''Miraculous'' universe]]}}
+This category is for books sold in real life.
+[[Category:Content]]</text>
+      <sha1>8l5kz9h36uyr5igz8pvvpmffnyh5wm6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Merchandise</title>
+    <ns>14</ns>
+    <id>18302</id>
+    <revision>
+      <id>66762</id>
+      <parentid>61831</parentid>
+      <timestamp>2016-08-07T23:24:50Z</timestamp>
+      <contributor>
+        <username>D SanCd</username>
+        <id>5272302</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="130">This category is for official merchandise of ''[[Miraculous: Tales of Ladybug &amp; Cat Noir]].''
+{{Merchandise}}
+[[Category:Content]]</text>
+      <sha1>opujhpamsut9o0hw6ifss5hyg8r6v6q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Templates</title>
+    <ns>14</ns>
+    <id>1766</id>
+    <revision>
+      <id>61720</id>
+      <parentid>3109</parentid>
+      <timestamp>2016-07-13T20:18:54Z</timestamp>
+      <contributor>
+        <username>D SanCd</username>
+        <id>5272302</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="216">This is the base category for '''templates'''. Templates should be placed in appropriate subcategories.
+
+See [[Project:Templates]] for collated information on templates.
+[[Category:Content]]
+[[Category:Organization]]</text>
+      <sha1>d9ele88u9kovrih6j95jo4lk2ugawv8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Site regulations</title>
+    <ns>14</ns>
+    <id>10822</id>
+    <revision>
+      <id>61722</id>
+      <parentid>19133</parentid>
+      <timestamp>2016-07-13T20:19:32Z</timestamp>
+      <contributor>
+        <username>D SanCd</username>
+        <id>5272302</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="68">Category for all of {{SITENAME}}'s regulations.
+[[Category:Content]]</text>
+      <sha1>b21hjdjtuc8ftt3nj313ks9ocmdus68</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Staff</title>
+    <ns>14</ns>
+    <id>2241</id>
+    <revision>
+      <id>210817</id>
+      <parentid>187920</parentid>
+      <timestamp>2017-12-07T21:46:52Z</timestamp>
+      <contributor>
+        <username>DarkClaw3</username>
+        <id>30634893</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="264">{{Youmay|the cast and crew of ''Miraculous''|[[Adrien Agreste|Cat Noir]]'s [[staff|weapon]]}}
+This category includes staff members of ''[[Miraculous: Tales of Ladybug &amp; Cat Noir]]'' and related media. This category only applies to real people.
+[[Category:Content]]</text>
+      <sha1>2mvryh29siy0yfoiew7nvra8tz5s7q1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Seasons</title>
+    <ns>14</ns>
+    <id>2463</id>
+    <revision>
+      <id>61725</id>
+      <parentid>4874</parentid>
+      <timestamp>2016-07-13T20:20:27Z</timestamp>
+      <contributor>
+        <username>D SanCd</username>
+        <id>5272302</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="110">This category is for the seasons of the [[Miraculous: Tales of Ladybug &amp; Cat Noir|show]].
+[[Category:Content]]</text>
+      <sha1>633fjnnfof74344evw9bkdcge7ax5vk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Featured articles</title>
+    <ns>14</ns>
+    <id>43641</id>
+    <revision>
+      <id>361807</id>
+      <parentid>268966</parentid>
+      <timestamp>2018-12-12T14:19:56Z</timestamp>
+      <contributor>
+        <username>Dorumin</username>
+        <id>26497423</id>
+      </contributor>
+      <minor/>
+      <comment>removing dot, lol</comment>
+      <text xml:space="preserve" bytes="194">&lt;center&gt;This category is for articles that have been featured on the [[w:c:miraculousladybug|homepage]] of the [[File:Wiki-wordmark.png|link=w:c:miraculousladybug]]&lt;/center&gt;
+[[Category:Content]]</text>
+      <sha1>tifkh29b7l4yt9zqeqrvnfsly9xyqd0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Quotes</title>
+    <ns>14</ns>
+    <id>43642</id>
+    <revision>
+      <id>73891</id>
+      <timestamp>2016-09-24T19:01:59Z</timestamp>
+      <contributor>
+        <username>Tansyflower</username>
+        <id>7117024</id>
+      </contributor>
+      <comment>Created page with &quot;This category contains quote pages for characters in the series.  [[Category:Content]]&quot;</comment>
+      <text xml:space="preserve" bytes="86">This category contains quote pages for characters in the series. 
+[[Category:Content]]</text>
+      <sha1>risegu99l1q5lnoso7npyz281bvwp1g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Non-Canon</title>
+    <ns>14</ns>
+    <id>46144</id>
+    <revision>
+      <id>79376</id>
+      <timestamp>2016-11-08T04:22:04Z</timestamp>
+      <contributor>
+        <username>Tansyflower</username>
+        <id>7117024</id>
+      </contributor>
+      <comment>Created page with &quot;This category is for a character, place, object, media, etc. that isn't or hasn't been confirmed to be canon in the Miraculous Ladybug Quantic Universe continuity. [[Category:...&quot;</comment>
+      <text xml:space="preserve" bytes="184">This category is for a character, place, object, media, etc. that isn't or hasn't been confirmed to be canon in the Miraculous Ladybug Quantic Universe continuity.
+[[Category:Content]]</text>
+      <sha1>5v6d3361w726pqyf6jf1hg58zhjrfuw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Crossovers</title>
+    <ns>14</ns>
+    <id>51275</id>
+    <revision>
+      <id>183851</id>
+      <parentid>90924</parentid>
+      <timestamp>2017-09-20T05:02:59Z</timestamp>
+      <contributor>
+        <username>Tansyflower</username>
+        <id>7117024</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="148">This category is for any type of media of ''Miraculous'' that crosses over with another franchise, like other ZAG Heroez shows.
+[[Category:Content]]</text>
+      <sha1>p83bl29oqhgde33j9tvmmbincigvwz1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Movies</title>
+    <ns>14</ns>
+    <id>38711</id>
+    <revision>
+      <id>230069</id>
+      <parentid>230068</parentid>
+      <timestamp>2018-02-23T01:38:25Z</timestamp>
+      <contributor>
+        <username>TheClydesdalePegasus149</username>
+        <id>26729447</id>
+      </contributor>
+      <comment>Undo revision 230068 by [[Special:Contributions/Spiderman925|Spiderman925]] ([[User talk:Spiderman925|talk]])</comment>
+      <text xml:space="preserve" bytes="80">This category is for films in the ''Miraculous'' franchise.
+[[Category:Content]]</text>
+      <sha1>sp3xfu42r5xl6sxpxasq8fbrtivofsl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Character designs</title>
+    <ns>14</ns>
+    <id>68149</id>
+    <revision>
+      <id>121175</id>
+      <timestamp>2017-05-14T00:31:32Z</timestamp>
+      <contributor>
+        <username>Tansyflower</username>
+        <id>7117024</id>
+      </contributor>
+      <comment>Created page with &quot;This category contains articles recording the designs and outfits of characters in the series. [[Category:Content]]&quot;</comment>
+      <text xml:space="preserve" bytes="115">This category contains articles recording the designs and outfits of characters in the series.
+[[Category:Content]]</text>
+      <sha1>fhx54zhgx4xbfqb29g4p6wuf13o5tud</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Television</title>
+    <ns>14</ns>
+    <id>38750</id>
+    <revision>
+      <id>156813</id>
+      <parentid>156812</parentid>
+      <timestamp>2017-07-21T20:59:48Z</timestamp>
+      <contributor>
+        <username>Tansyflower</username>
+        <id>7117024</id>
+      </contributor>
+      <text xml:space="preserve" bytes="214">{{Youmay|television shows in real life|[[:Category:In-universe television shows|television shows within the ''Miraculous'' universe]]}}
+This category is for television series of ''Miraculous''.
+[[Category:Content]]</text>
+      <sha1>hdqfauhoggi0hvdqq17mnludrql8zk5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Events</title>
+    <ns>14</ns>
+    <id>103378</id>
+    <revision>
+      <id>238046</id>
+      <timestamp>2018-03-24T18:08:00Z</timestamp>
+      <contributor>
+        <username>TheClydesdalePegasus149</username>
+        <id>26729447</id>
+      </contributor>
+      <comment>Created page with &quot; [[Category:Content]]&quot;</comment>
+      <text xml:space="preserve" bytes="21">
+[[Category:Content]]</text>
+      <sha1>s3g9fy5mi2k0zc7njnlmexay47qwgeo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Histories</title>
+    <ns>14</ns>
+    <id>103382</id>
+    <revision>
+      <id>238051</id>
+      <timestamp>2018-03-24T18:13:20Z</timestamp>
+      <contributor>
+        <username>TheClydesdalePegasus149</username>
+        <id>26729447</id>
+      </contributor>
+      <comment>Created page with &quot;This category is for histories for ''[[Miraculous: Tales of Ladybug &amp; Cat Noir]]''. [[Category:Content]]&quot;</comment>
+      <text xml:space="preserve" bytes="104">This category is for histories for ''[[Miraculous: Tales of Ladybug &amp; Cat Noir]]''.
+[[Category:Content]]</text>
+      <sha1>086r4dx51sudk7gcim9ul0skbs8lze9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Articles with outdated sources</title>
+    <ns>14</ns>
+    <id>124775</id>
+    <revision>
+      <id>280499</id>
+      <parentid>280490</parentid>
+      <timestamp>2018-06-07T02:24:22Z</timestamp>
+      <contributor>
+        <username>TheClydesdalePegasus149</username>
+        <id>26729447</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="100">These articles have sources that have either been deleted or partially changed.
+[[Category:Content]]</text>
+      <sha1>iubp2fttb4m2ej3chmsqbx24nb1t0zg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Antibug Images</title>
+    <ns>14</ns>
+    <id>77788</id>
+    <revision>
+      <id>248288</id>
+      <parentid>177532</parentid>
+      <timestamp>2018-04-10T04:42:52Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="122">This is a category that contains all the images from the episode, [[Antibug/Gallery|Antibug]].
+[[Category:Episode Images]]</text>
+      <sha1>592v44thg60jdmzmi6zrznf47g6ubry</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Busy Day Images</title>
+    <ns>14</ns>
+    <id>77799</id>
+    <revision>
+      <id>248289</id>
+      <parentid>177550</parentid>
+      <timestamp>2018-04-10T04:43:33Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="125">This is a category that contains all the images from the webisode, [[Busy Day/Gallery|Busy Day]].
+[[Category:Episode Images]]</text>
+      <sha1>je2u87lnft2zv1s9vt2rue20g8cweqr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Copycat Images</title>
+    <ns>14</ns>
+    <id>77769</id>
+    <revision>
+      <id>248290</id>
+      <parentid>177503</parentid>
+      <timestamp>2018-04-10T04:43:39Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="122">This is a category that contains all the images from the episode, [[Copycat/Gallery|Copycat]].
+[[Category:Episode Images]]</text>
+      <sha1>3sri4ain6b6x7rwhridmu3xeirzgtwk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Dark Cupid Images</title>
+    <ns>14</ns>
+    <id>77773</id>
+    <revision>
+      <id>248293</id>
+      <parentid>177508</parentid>
+      <timestamp>2018-04-10T04:48:05Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="128">This is a category that contains all the images from the episode, [[Dark Cupid/Gallery|Dark Cupid]].
+[[Category:Episode Images]]</text>
+      <sha1>tlseibzanib9l2nyro1a4bt3ptw4jyf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Darkblade Images</title>
+    <ns>14</ns>
+    <id>77775</id>
+    <revision>
+      <id>248294</id>
+      <parentid>177511</parentid>
+      <timestamp>2018-04-10T04:48:19Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="126">This is a category that contains all the images from the episode, [[Darkblade/Gallery|Darkblade]].
+[[Category:Episode Images]]</text>
+      <sha1>l5jt05csikxauts4lcxrcyo4n2day2t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Guitar Villain Images</title>
+    <ns>14</ns>
+    <id>77783</id>
+    <revision>
+      <id>248295</id>
+      <parentid>177526</parentid>
+      <timestamp>2018-04-10T04:48:40Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="136">This is a category that contains all the images from the episode, [[Guitar Villain/Gallery|Guitar Villain]].
+[[Category:Episode Images]]</text>
+      <sha1>7yom5nv7mndckcjs6w6kw9rnckevata</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Homework Essay Images</title>
+    <ns>14</ns>
+    <id>77800</id>
+    <revision>
+      <id>248296</id>
+      <parentid>177551</parentid>
+      <timestamp>2018-04-10T04:48:45Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="137">This is a category that contains all the images from the webisode, [[Homework Essay/Gallery|Homework Essay]].
+[[Category:Episode Images]]</text>
+      <sha1>hp5td856ruykm7m8ymoszbw425n5av2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Horrificator Images</title>
+    <ns>14</ns>
+    <id>77774</id>
+    <revision>
+      <id>248297</id>
+      <parentid>177509</parentid>
+      <timestamp>2018-04-10T04:48:47Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="132">This is a category that contains all the images from the episode, [[Horrificator/Gallery|Horrificator]].
+[[Category:Episode Images]]</text>
+      <sha1>rk6a4kxbvea0bk3albz1kseq7t0q90p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Inspiration Images</title>
+    <ns>14</ns>
+    <id>77797</id>
+    <revision>
+      <id>248298</id>
+      <parentid>177548</parentid>
+      <timestamp>2018-04-10T04:48:50Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="131">This is a category that contains all the images from the webisode, [[Inspiration/Gallery|Inspiration]].
+[[Category:Episode Images]]</text>
+      <sha1>mnyooc4iqkehzfgp0d6y86kfl0przgf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Gamer Images</title>
+    <ns>14</ns>
+    <id>77785</id>
+    <revision>
+      <id>248299</id>
+      <parentid>177529</parentid>
+      <timestamp>2018-04-10T04:49:24Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="118">This is a category that contains all the images from the episode, [[Gamer/Gallery|Gamer]].
+[[Category:Episode Images]]</text>
+      <sha1>srali9zd9jay2efopv479fakacb125w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:A Christmas Special Images</title>
+    <ns>14</ns>
+    <id>77790</id>
+    <revision>
+      <id>248300</id>
+      <parentid>248285</parentid>
+      <timestamp>2018-04-10T04:50:01Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="146">This is a category that contains all the images from the episode, [[A Christmas Special/Gallery|A Christmas Special]].
+[[Category:Episode Images]]</text>
+      <sha1>qummqr4i9wupvnjy41v0e2vafiad282</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Kung Food Images</title>
+    <ns>14</ns>
+    <id>77784</id>
+    <revision>
+      <id>248301</id>
+      <parentid>177528</parentid>
+      <timestamp>2018-04-10T04:50:20Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="126">This is a category that contains all the images from the episode, [[Kung Food/Gallery|Kung Food]].
+[[Category:Episode Images]]</text>
+      <sha1>amcuhc7jsc1ro3606d9kbh5axzrmj13</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Lady Wifi Images</title>
+    <ns>14</ns>
+    <id>77762</id>
+    <revision>
+      <id>248302</id>
+      <parentid>177497</parentid>
+      <timestamp>2018-04-10T04:50:24Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="126">This is a category that contains all the images from the episode, [[Lady Wifi/Gallery|Lady Wifi]].
+[[Category:Episode Images]]</text>
+      <sha1>mxc7jjc3dfot1baec3jh0mbryoq0oyl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Ladybug &amp; Cat Noir (Origins - Part 1) Images</title>
+    <ns>14</ns>
+    <id>77778</id>
+    <revision>
+      <id>248303</id>
+      <parentid>177515</parentid>
+      <timestamp>2018-04-10T04:50:26Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="182">This is a category that contains all the images from the episode, [[Ladybug &amp; Cat Noir (Origins - Part 1)/Gallery|Ladybug &amp; Cat Noir (Origins - Part 1)]].
+[[Category:Episode Images]]</text>
+      <sha1>giog97b20dyimc8xney5nbrmcx5xz7i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Mr. Pigeon Images</title>
+    <ns>14</ns>
+    <id>77767</id>
+    <revision>
+      <id>248304</id>
+      <parentid>177501</parentid>
+      <timestamp>2018-04-10T04:50:28Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="128">This is a category that contains all the images from the episode, [[Mr. Pigeon/Gallery|Mr. Pigeon]].
+[[Category:Episode Images]]</text>
+      <sha1>r5sngzjhdnhf84tndv8feea8ak0gshv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Pixelator Images</title>
+    <ns>14</ns>
+    <id>77782</id>
+    <revision>
+      <id>248305</id>
+      <parentid>177524</parentid>
+      <timestamp>2018-04-10T04:50:30Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="126">This is a category that contains all the images from the episode, [[Pixelator/Gallery|Pixelator]].
+[[Category:Episode Images]]</text>
+      <sha1>756ie0n2l4s2hl7i7xlme8tapztivyw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Princess Fragrance Images</title>
+    <ns>14</ns>
+    <id>77777</id>
+    <revision>
+      <id>248306</id>
+      <parentid>177514</parentid>
+      <timestamp>2018-04-10T04:50:33Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="144">This is a category that contains all the images from the episode, [[Princess Fragrance/Gallery|Princess Fragrance]].
+[[Category:Episode Images]]</text>
+      <sha1>lmhx5fs3bbwybshcfz0733284mc629b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Reflekta Images</title>
+    <ns>14</ns>
+    <id>77786</id>
+    <revision>
+      <id>248307</id>
+      <parentid>177530</parentid>
+      <timestamp>2018-04-10T04:50:35Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="124">This is a category that contains all the images from the episode, [[Reflekta/Gallery|Reflekta]].
+[[Category:Episode Images]]</text>
+      <sha1>f0chg347erndvr8gmt1a6vwv6o6fscz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Repetition Images</title>
+    <ns>14</ns>
+    <id>77798</id>
+    <revision>
+      <id>248308</id>
+      <parentid>177549</parentid>
+      <timestamp>2018-04-10T04:50:37Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="129">This is a category that contains all the images from the webisode, [[Repetition/Gallery|Repetition]].
+[[Category:Episode Images]]</text>
+      <sha1>qvgme48zq6cxse2czq1wpdhqq2dhz5t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Rogercop Images</title>
+    <ns>14</ns>
+    <id>77771</id>
+    <revision>
+      <id>248309</id>
+      <parentid>177505</parentid>
+      <timestamp>2018-04-10T04:50:39Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="124">This is a category that contains all the images from the episode, [[Rogercop/Gallery|Rogercop]].
+[[Category:Episode Images]]</text>
+      <sha1>ekn0h45wdjj6mpkcqyfmeilx0qo08zi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Simon Says Images</title>
+    <ns>14</ns>
+    <id>77781</id>
+    <revision>
+      <id>248310</id>
+      <parentid>177523</parentid>
+      <timestamp>2018-04-10T04:51:09Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="128">This is a category that contains all the images from the episode, [[Simon Says/Gallery|Simon Says]].
+[[Category:Episode Images]]</text>
+      <sha1>rv418i0q1vacnagc4vomcdr4nizv9mp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Stoneheart (Origins - Part 2) Images</title>
+    <ns>14</ns>
+    <id>77779</id>
+    <revision>
+      <id>248311</id>
+      <parentid>177517</parentid>
+      <timestamp>2018-04-10T04:51:30Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="166">This is a category that contains all the images from the episode, [[Stoneheart (Origins - Part 2)/Gallery|Stoneheart (Origins - Part 2)]].
+[[Category:Episode Images]]</text>
+      <sha1>9o362j3miv1heo3nuf4hzzybov09ewl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Stormy Weather Images</title>
+    <ns>14</ns>
+    <id>77772</id>
+    <revision>
+      <id>248312</id>
+      <parentid>177506</parentid>
+      <timestamp>2018-04-10T04:51:36Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="136">This is a category that contains all the images from the episode, [[Stormy Weather/Gallery|Stormy Weather]].
+[[Category:Episode Images]]</text>
+      <sha1>5w7xl5nogfkffllj8t2sloir8dkz3qj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:The Evillustrator Images</title>
+    <ns>14</ns>
+    <id>77766</id>
+    <revision>
+      <id>248313</id>
+      <parentid>177499</parentid>
+      <timestamp>2018-04-10T04:51:42Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="142">This is a category that contains all the images from the episode, [[The Evillustrator/Gallery|The Evillustrator]].
+[[Category:Episode Images]]</text>
+      <sha1>8w2wo1i5z81fe015nfdtbq02lix8skc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:The Mime Images</title>
+    <ns>14</ns>
+    <id>77776</id>
+    <revision>
+      <id>248314</id>
+      <parentid>177513</parentid>
+      <timestamp>2018-04-10T04:51:44Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="124">This is a category that contains all the images from the episode, [[The Mime/Gallery|The Mime]].
+[[Category:Episode Images]]</text>
+      <sha1>dc7x5kpjuud3qj4o2e3debrvh0m3128</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:The Notebook Images</title>
+    <ns>14</ns>
+    <id>77796</id>
+    <revision>
+      <id>248315</id>
+      <parentid>177547</parentid>
+      <timestamp>2018-04-10T04:51:47Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="133">This is a category that contains all the images from the webisode, [[The Notebook/Gallery|The Notebook]].
+[[Category:Episode Images]]</text>
+      <sha1>kjc8i44f5y9yonqpmsg60uzogvjpcqf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:The Pharaoh Images</title>
+    <ns>14</ns>
+    <id>77770</id>
+    <revision>
+      <id>248316</id>
+      <parentid>177504</parentid>
+      <timestamp>2018-04-10T04:51:48Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="130">This is a category that contains all the images from the episode, [[The Pharaoh/Gallery|The Pharaoh]].
+[[Category:Episode Images]]</text>
+      <sha1>rclweuphlo3xkb8yoi7hftcivm3o3he</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:The Puppeteer Images</title>
+    <ns>14</ns>
+    <id>77787</id>
+    <revision>
+      <id>248317</id>
+      <parentid>177531</parentid>
+      <timestamp>2018-04-10T04:51:50Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="134">This is a category that contains all the images from the episode, [[The Puppeteer/Gallery|The Puppeteer]].
+[[Category:Episode Images]]</text>
+      <sha1>72ine6vt2zp90t1monse5nw8gey9xa9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Timebreaker Images</title>
+    <ns>14</ns>
+    <id>106726</id>
+    <revision>
+      <id>248318</id>
+      <parentid>177502</parentid>
+      <timestamp>2018-04-10T04:51:52Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="130">This is a category that contains all the images from the episode, [[Timebreaker/Gallery|Timebreaker]].
+[[Category:Episode Images]]</text>
+      <sha1>6vy25jwp28ilmlnv8qcuwpcbr50ohbh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Volpina Images</title>
+    <ns>14</ns>
+    <id>77789</id>
+    <revision>
+      <id>248319</id>
+      <parentid>177533</parentid>
+      <timestamp>2018-04-10T04:51:54Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="122">This is a category that contains all the images from the episode, [[Volpina/Gallery|Volpina]].
+[[Category:Episode Images]]</text>
+      <sha1>a7pzj4js9cqzceaxj1jyywe0vqbv332</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:The Bubbler Images</title>
+    <ns>14</ns>
+    <id>77765</id>
+    <revision>
+      <id>248321</id>
+      <parentid>177498</parentid>
+      <timestamp>2018-04-10T04:52:22Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      <text xml:space="preserve" bytes="130">This is a category that contains all the images from the episode, [[The Bubbler/Gallery|The Bubbler]].
+[[Category:Episode Images]]</text>
+      <sha1>3afmsuny9zg5spnn8y9zn7j7ytxesbt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Animan Images</title>
+    <ns>14</ns>
+    <id>77780</id>
+    <revision>
+      <id>248324</id>
+      <parentid>248286</parentid>
+      <timestamp>2018-04-10T04:54:54Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>lay</comment>
+      <text xml:space="preserve" bytes="120">This is a category that contains all the images from the episode, [[Animan/Gallery|Animan]].
+[[Category:Episode Images]]</text>
+      <sha1>axi71e9apc4z602fcklx3o82ljj599c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Videos</title>
+    <ns>14</ns>
+    <id>2033</id>
+    <revision>
+      <id>3877</id>
+      <timestamp>2013-10-14T22:46:02Z</timestamp>
+      <contributor>
+        <username>Default</username>
+        <id>49312</id>
+      </contributor>
+      <comment>New category structure. These show up as reds on a huge amount of wikis</comment>
+      <text xml:space="preserve" bytes="48">'''Videos''' on {{SITENAME}}.
+[[Category:Files]]</text>
+      <sha1>a9qu166y0vubcremg1lle5a8ltlfv7p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:Example.jpg</title>
+    <ns>6</ns>
+    <id>2031</id>
+    <revision>
+      <id>248329</id>
+      <parentid>2782</parentid>
+      <timestamp>2018-04-10T04:56:19Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Replacing [[Category:Images|Images]] with [[Category:Files|Files]] (automatic)</comment>
+      <text xml:space="preserve" bytes="129">Cropped and resized from [[Commons:Image:LotusBud0048a.jpg]]
+
+*Photographer: [[Commons:User:Fg2|Fg2]]
+
+{{PD}}
+
+[[Category:Files]]</text>
+      <sha1>hh12w14ss3j3t1vadx3fpvg94625fl5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Merchandise images</title>
+    <ns>14</ns>
+    <id>76548</id>
+    <revision>
+      <id>248328</id>
+      <parentid>173086</parentid>
+      <timestamp>2018-04-10T04:56:19Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Replacing [[Category:Images|Images]] with [[Category:Files|Files]] (automatic)</comment>
+      <text xml:space="preserve" bytes="53">Parent for all merchandise images.
+[[Category:Files]]</text>
+      <sha1>8xzqjrygzc4q8xfokym688k4qbba91p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Episode Images</title>
+    <ns>14</ns>
+    <id>107380</id>
+    <revision>
+      <id>248327</id>
+      <parentid>248325</parentid>
+      <timestamp>2018-04-10T04:56:18Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Replacing [[Category:Images|Images]] with [[Category:Files|Files]] (automatic)</comment>
+      <text xml:space="preserve" bytes="85">This is a category that contains all the episode image categories.
+[[Category:Files]]</text>
+      <sha1>p28nanb1us1vnjx6sp6kwdgu4dc13rm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:Forum new.gif</title>
+    <ns>6</ns>
+    <id>1482</id>
+    <revision>
+      <id>248330</id>
+      <parentid>3983</parentid>
+      <timestamp>2018-04-10T04:56:20Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Replacing [[Category:Images|Images]] with [[Category:Files|Files]] (automatic)</comment>
+      <text xml:space="preserve" bytes="153">*'''Description:''' Image from the Mini icon theme by Mark James
+*'''Source:''' http://www.famfamfam.com/lab/icons/mini/
+&lt;br /&gt;
+{{PD}}
+[[Category:Files]]</text>
+      <sha1>b8eewqhr4upsvq8xtsrpq46yl0q1uix</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Site Images</title>
+    <ns>14</ns>
+    <id>107387</id>
+    <revision>
+      <id>248338</id>
+      <timestamp>2018-04-10T05:07:04Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Created page with &quot;List of all Wikia files used on the site. [[Category:Files]]&quot;</comment>
+      <text xml:space="preserve" bytes="60">List of all Wikia files used on the site.
+[[Category:Files]]</text>
+      <sha1>0uiuhjj5zlbs0l5sb0ur0jf4dot1wxv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:T</title>
+    <ns>10</ns>
+    <id>1808</id>
+    <revision>
+      <id>3179</id>
+      <timestamp>2013-10-14T22:46:02Z</timestamp>
+      <contributor>
+        <username>Default</username>
+        <id>49312</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision</comment>
+      <text xml:space="preserve" bytes="579">&lt;nowiki&gt;{{&lt;/nowiki&gt;[[Template:{{{1}}}|{{{1}}}]]{{t/piece|{{{2|---}}}}}{{t/piece|{{{3|---}}}}}{{t/piece|{{{4|---}}}}}{{t/piece|{{{5|---}}}}}{{t/piece|{{{6|---}}}}}{{t/piece|{{{7|---}}}}}{{t/piece|{{{8|---}}}}}{{t/piece|{{{9|---}}}}}{{t/piece|{{{10|---}}}}}{{t/piece|{{{11|---}}}}}{{t/piece|{{{12|---}}}}}{{t/piece|{{{13|---}}}}}{{t/piece|{{{14|---}}}}}{{t/piece|{{{15|---}}}}}{{t/piece|{{{16|---}}}}}{{t/piece|{{{17|---}}}}}{{t/piece|{{{18|---}}}}}{{t/piece|{{{19|---}}}}}{{t/piece|{{{20|---}}}}}{{t/piece|{{{21|---}}}}}&lt;nowiki&gt;}}&lt;/nowiki&gt;&lt;noinclude&gt;
+{{documentation}}&lt;/noinclude&gt;</text>
+      <sha1>d49se9v498od26tkx7br49dfrf6ywnj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:T/piece</title>
+    <ns>10</ns>
+    <id>1809</id>
+    <revision>
+      <id>3181</id>
+      <timestamp>2013-10-14T22:46:02Z</timestamp>
+      <contributor>
+        <username>Default</username>
+        <id>49312</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision</comment>
+      <text xml:space="preserve" bytes="120">{{#ifeq: {{{1|---}}}|---||&amp;#124;&lt;font color=&quot;gray&quot;&gt;''&amp;lt;{{{1}}}&amp;gt;''&lt;/font&gt;}}&lt;noinclude&gt;
+{{documentation}}&lt;/noinclude&gt;</text>
+      <sha1>0nlvv42vk9pm1aj0vzrprgsdclrzhsu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Episodes</title>
+    <ns>10</ns>
+    <id>2642</id>
+    <revision>
+      <id>459174</id>
+      <parentid>454463</parentid>
+      <timestamp>2019-08-30T11:50:14Z</timestamp>
+      <contributor>
+        <username>Mr.inkognito123</username>
+        <id>33705267</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="7796">{|width=&quot;100%&quot; style=&quot;text-align:center; clear:both; background-color:#000000;&quot;
+|
+{|class=&quot;mw-collapsible mw-collapsed&quot; width=&quot;100%&quot; style=&quot;text-align:center; clear:both; -moz-border-radius:10px; font-size:88%; background-color:#161616; color:#FFFFFF&quot; 
+!&lt;span style=&quot;float:left;&quot; class=&quot;plainlinks&quot;&gt;&lt;font style=&quot;font-size:8px; color:#fff;&quot;&gt; [[Template:Episodes|&lt;span style=&quot;color:#fff;&quot;&gt;v&lt;/span&gt;]] • [{{fullurl:Template:Episodes|action=edit}} &lt;span style=&quot;color:#fff;&quot;&gt;e&lt;/span&gt;]&lt;/font&gt;&lt;/span&gt; '''[[:Category:Episodes|&lt;span style=&quot;color:white; font-size:100%&quot;&gt;Episodes&lt;/span&gt;]]''' 
+|-
+|-style=&quot;background:#161616; -moz-border-radius:10px&quot;
+|
+{| class=&quot;mw-collapsible mw-collapsed&quot; width=&quot;100%&quot; style=&quot;text-align:center; -moz-border-radius:10px; clear:both; font-size:90%;  background:white; color:black&quot;
+! style=&quot;background:#C7222A; border:2px solid #8B0000; color:#FFFFFF; -moz-border-radius:10px;&quot;|'''[[Season 1|&lt;span style=&quot;color:white; font-size:100%&quot;&gt;Season 1&lt;/span&gt;]]''' 
+|-
+! [[The Bubbler]] • [[Mr. Pigeon]] • [[Stormy Weather]] • [[Timebreaker]] • [[Copycat]] • [[The Pharaoh]] • [[Lady Wifi]] • [[The Evillustrator]] • [[Rogercop]] • [[Dark Cupid]] • [[Horrificator]] • [[Darkblade]] • [[The Mime]] • [[Princess Fragrance]] • [[Ladybug &amp; Cat Noir (Origins - Part 1)|Ladybug &amp; Cat Noir]] • [[Stoneheart (Origins - Part 2)|Stoneheart]] • [[Animan]] • [[Simon Says]] • [[Pixelator]] • [[Guitar Villain]] • [[Kung Food]] • [[Gamer]] • [[Reflekta]] • [[The Puppeteer]] • [[Antibug]] •  [[Volpina]]
+|-
+{| class=&quot;mw-collapsible mw-collapsed&quot; width=&quot;100%&quot; style=&quot;text-align:center; -moz-border-radius:10px; clear:both; font-size:90%;  background:white; color:black&quot;
+! style=&quot;background:#778899; border:2px solid #445566; color:#FFFFFF; -moz-border-radius:10px;&quot;|'''[[Season 2|&lt;span style=&quot;color:white; font-size:100%&quot;&gt;Season 2&lt;/span&gt;]]''' 
+|-
+! [[Santa Claws]] • [[The Collector]] • [[Prime Queen]] • [[Despair Bear]] • [[Riposte]] • [[Befana]] • [[Robostus]] • [[The Dark Owl]] • [[Gigantitan]] • [[Glaciator]] • [[Sapotis]] • [[Gorizilla]] • [[Captain Hardrock]] • [[Frightningale]] • [[Syren]] • [[Zombizou]]  • [[Frozer]] • [[Style Queen (Queen's Battle - Part 1)|Style Queen]] • [[Troublemaker]] • [[Queen Wasp (Queen's Battle - Part 2)|Queen Wasp]] • [[Reverser]] • [[Anansi]] • [[Malediktator]] • [[Sandboy]]  • [[Catalyst (Heroes' Day - Part 1)|Catalyst]] • [[Mayura (Heroes' Day - Part 2)|Mayura]]
+
+|-
+{| class=&quot;mw-collapsible mw-collapsed&quot; width=&quot;100%&quot; style=&quot;text-align:center; -moz-border-radius:10px; clear:both; font-size:90%;  background:white; color:black&quot;
+! style=&quot;background:#663399; border:2px solid #330066; color:#FFFFFF; -moz-border-radius:10px;&quot;|'''[[Season 3|&lt;span style=&quot;color:white; font-size:100%&quot;&gt;Season 3&lt;/span&gt;]]'''
+|-
+!
+[[Chameleon]] • [[Animaestro]] • [[Bakerix]] • [[Backwarder]] • [[Gamer 2.0]] • [[Weredad]] • [[Silencer]] • [[Oni-Chan]] • [[Miraculer]] • [[Oblivio]] • [[Party Crasher]] • [[Christmaster]] • [[The Puppeteer 2]] &lt;center&gt;'''Future episodes'''&lt;/center&gt;[[Reflekdoll]] • [[Desperada]] • [[Startrain]] • [[Kwamibuster]] • [[Feast]] • [[Stormy Weather 2]] • [[Ikari Gozen]] • [[Timetagger]] • [[Cat Blanc]] • [[Félix (episode)|Félix]] • [[Ladybug (episode)|Ladybug]] • [[Loveater (Battle of the Miraculous - Part 1)|Loveater]] • [[Miracle Queen (Battle of the Miraculous - Part 2)|Miracle Queen]]
+|-
+{| class=&quot;mw-collapsible mw-collapsed&quot; width=&quot;100%&quot; style=&quot;text-align:center; -moz-border-radius:10px; clear:both; font-size:90%;  background:white; color:black&quot;
+! style=&quot;background:#BB8800; border:2px solid #996600; color:#FFFFFF; -moz-border-radius:10px;&quot;|'''[[Season 4|&lt;span style=&quot;color:white; font-size:100%&quot;&gt;Season 4&lt;/span&gt;]]''' 
+|-
+! '''TBA'''
+|-
+{| class=&quot;mw-collapsible mw-collapsed&quot; width=&quot;100%&quot; style=&quot;text-align:center; -moz-border-radius:10px; clear:both; font-size:90%;  background:white; color:black&quot;
+! style=&quot;background:#CC6600; border:2px solid #993300; color:#FFFFFF; -moz-border-radius:10px;&quot;|'''[[Season 5|&lt;span style=&quot;color:white; font-size:100%&quot;&gt;Season 5&lt;/span&gt;]]''' 
+|-
+! '''TBA'''
+|-
+{| class=&quot;mw-collapsible mw-collapsed&quot; width=&quot;100%&quot; style=&quot;text-align:center; -moz-border-radius:10px; clear:both; font-size:90%;  background:white; color:black&quot;
+! style=&quot;background:#5555BB; border:2px solid #222288; color:#FFFFFF; -moz-border-radius:10px;&quot;|'''[[Specials|&lt;span style=&quot;color:white; font-size:100%&quot;&gt;Specials&lt;/span&gt;]]''' 
+|-
+|-
+![[The Origins Story]] • [[Santa Claws]] • [[Queen's Battle]] • [[Heroes' Day]] • [[Battle of the Miraculous]]
+
+&lt;center&gt;'''Unknown/Cancelled specials'''&lt;/center&gt;
+[[Ladybug in Halloween]] • [[The Chinese Legend]]
+|-
+{| class=&quot;mw-collapsible mw-collapsed&quot; width=&quot;100%&quot; style=&quot;text-align:center; -moz-border-radius:10px; clear:both; font-size:90%;  background:white; color:black&quot;
+! style=&quot;background:#339999; border:2px solid #006666; color:#FFFFFF; -moz-border-radius:10px;&quot;|'''[[Miraculous Secrets|&lt;span style=&quot;color:white; font-size:100%&quot;&gt;Miraculous Secrets&lt;/span&gt;]]''' 
+|-
+! [[Marinette in Paris]] • [[Marinette and Fashion]] • [[Ladybug as seen by Adrien]] • [[Ladyblog]] • [[Adrien's Double Life]] •&lt;br /&gt;[[Marinette and Alya]] • [[Marinette's Double Life]] • [[Cat Noir as seen by Marinette]] • [[My Birthday Party]] • [[Marinette and Adrien]] • [[Master Fu (webisode)|Master Fu]] • [[Tikki (webisode)|Tikki]] • [[Plagg (webisode)|Plagg]] • [[Friends]] • [[Nino (webisode)|Nino]] • [[Max (webisode)|Max]] • [[Mylène (webisode)|Mylène]] • [[Rose (webisode)|Rose]] • [[Alix (webisode)|Alix]] • [[Sabrina (webisode)|Sabrina]] • [[Ivan (webisode)|Ivan]] • [[Marinette as seen by Chloé]] • [[Lila (webisode)|Lila]]
+
+&lt;center&gt;'''Future webisodes'''&lt;/center&gt;
+[[Chloé as seen by Marinette]] • [[Gabriel (webisode)|Gabriel]] • [[Nathaniel &amp; Marc]] • [[Kagami as seen by Marinette]]
+|-
+{| class=&quot;mw-collapsible mw-collapsed&quot; width=&quot;100%&quot; style=&quot;text-align:center; -moz-border-radius:10px; clear:both; font-size:90%;  background:white; color:black&quot;
+! style=&quot;background:#008844; border:2px solid #005511; color:#FFFFFF; -moz-border-radius:10px;&quot;|'''[[Miraculous: Tales from Paris|&lt;span style=&quot;color:white; font-size:100%&quot;&gt;Tales from Paris&lt;/span&gt;]]''' 
+|-
+! [[The Notebook]] • [[Inspiration]] • [[Repetition]] • [[Busy Day]] • [[Homework Essay]]
+|-
+{| class=&quot;mw-collapsible mw-collapsed&quot; width=&quot;100%&quot; style=&quot;text-align:center; -moz-border-radius:10px; clear:both; font-size:90%;  background:white; color:black&quot;
+! style=&quot;background:#559977; border:2px solid #226644; color:#FFFFFF; -moz-border-radius:10px;&quot;|'''[[Miraculous Zag Chibi|&lt;span style=&quot;color:white; font-size:100%&quot;&gt;Miraculous Zag Chibi&lt;/span&gt;]]'''
+|-
+! [[Rooftop Dinner]] • [[Catnip Fragrance]] • [[The Chase]] • [[Curiosity Kicked the Cat]] • [[Cutest Cat Fight]] • [[Fatal Posy]] • [[Scarybug]]
+
+&lt;center&gt;'''Future webisode'''&lt;/center&gt;
+[[NeckRace]]
+|-
+{| class=&quot;mw-collapsible mw-collapsed&quot; width=&quot;100%&quot; style=&quot;text-align:center; -moz-border-radius:10px; clear:both; font-size:90%;  background:white; color:black&quot;
+! style=&quot;background:#336699; border:2px solid #003366; color:#FFFFFF; -moz-border-radius:10px;&quot;|'''&lt;span style=&quot;color:white; font-size:100%&quot;&gt;Other media&lt;/span&gt;'''
+|-
+! [[The Mini Menace Ladybug]] • [[Ladybug PV]] • [[First CGI promotional videos]] • [[Happy Birthday to You!]] • [[Ladybug (musical)]] • [[Miraculous Ladybug OVA]] • [[Miraculous (live-action film)]] • [[Miraculous Ladybug (musical)]] • [[Miraculous Live]] • [[Ladybug &amp; Cat Noir Awakening]] • [[The Miraculous Ladybug Show]] • [[Gagotor]]
+|-
+|}&lt;noinclude&gt;[[Category:Navboxes]][[Category:Templates]]&lt;/noinclude&gt;</text>
+      <sha1>f4i645a82kkl63b4b7lkr62znanhior</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Superpowers</title>
+    <ns>10</ns>
+    <id>2856</id>
+    <revision>
+      <id>448569</id>
+      <parentid>448567</parentid>
+      <timestamp>2019-08-01T18:37:45Z</timestamp>
+      <contributor>
+        <username>Rhavkin</username>
+        <id>25161930</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1057">{|width=&quot;100%&quot; style=&quot;text-align:center; clear:both; background-color:#000000;&quot;
+|
+{|class=&quot;mw-collapsible mw-collapsed&quot; width=&quot;100%&quot; style=&quot;text-align:center; clear:both; -moz-border-radius:10px; font-size:88%; background-color:#161616; color:#FFFFFF&quot; 
+!&lt;span style=&quot;float:left;&quot; class=&quot;plainlinks&quot;&gt;&lt;font style=&quot;font-size:8px; color:white;&quot;&gt; [[Template:Superpowers|&lt;span style=&quot;color:white;&quot;&gt;v&lt;/span&gt;]] • [{{fullurl:Template:Superpowers|action=edit}} &lt;span style=&quot;color:white;&quot;&gt;e&lt;/span&gt;]&lt;/font&gt;&lt;/span&gt; [[Miraculous superpowers|&lt;font style=&quot;color:white;&quot;&gt;Superpowers&lt;/font&gt;]]
+|-
+|-style=&quot;background:#008080; -moz-border-radius:10px&quot;
+|-style=&quot;background:#FFFFFF; color:black&quot;
+! [[Akumatization]] • [[Amokization]] • [[Burrow]] • [[Cataclysm]] • [[Dragon Miraculous Superpower]] • [[Horse Miraculous Superpower]] • [[Lucky Charm]] • [[Miraculous Ladybug (superpower)|Miraculous Ladybug]] • [[Mirage]] • [[Second Chance]] • [[Shell-ter]] • [[Uproar]] • [[Venom]]
+|}
+|}
+&lt;noinclude&gt;[[Category:Navboxes]][[Category:Templates]]&lt;/noinclude&gt;</text>
+      <sha1>pvv7kw6lnvwn7op20snol7krhcuk9pf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Songs</title>
+    <ns>10</ns>
+    <id>2854</id>
+    <revision>
+      <id>427296</id>
+      <parentid>413312</parentid>
+      <timestamp>2019-05-28T22:40:46Z</timestamp>
+      <contributor>
+        <username>TheClydesdalePegasus149</username>
+        <id>26729447</id>
+      </contributor>
+      <text xml:space="preserve" bytes="2221">{|width=&quot;100%&quot; style=&quot;text-align:center; clear:both; background-color:#000000;&quot;
+|
+{|class=&quot;mw-collapsible mw-collapsed&quot; width=&quot;100%&quot; style=&quot;text-align:center; clear:both; -moz-border-radius:10px; font-size:88%; background-color:#161616; color:#FFFFFF&quot; 
+!&lt;span style=&quot;float:left;&quot; class=&quot;plainlinks&quot;&gt;&lt;font style=&quot;font-size:8px; color:#fff;&quot;&gt; [[Template:Songs|&lt;span style=&quot;color:white;&quot;&gt;v&lt;/span&gt;]] • [{{fullurl:Template:Songs|action=edit}} &lt;span style=&quot;color:white;&quot;&gt;e&lt;/span&gt;]&lt;/font&gt;&lt;/span&gt;Songs
+|-
+|-style=&quot;background:#000000; -moz-border-radius:10px&quot;
+|
+{| class=&quot;mw-collapsible mw-collapsed&quot; width=&quot;100%&quot; style=&quot;text-align:center; -moz-border-radius:10px; clear:both; font-size:90%;  background:white; color:black&quot;
+! style=&quot;background:#667; border:2px solid #334; color:#FFFFFF; -moz-border-radius:10px;&quot;| '''&lt;span style=&quot;color:white;&quot;&gt;&lt;font color=white&gt;Theme songs&lt;/font&gt;&lt;/span&gt;''' 
+|-
+! [[It's Ladybug]] • [[It's Ladybug|Miraculous Theme (Christmas Version)]]
+|-
+{| class=&quot;mw-collapsible mw-collapsed&quot; width=&quot;100%&quot; style=&quot;text-align:center; -moz-border-radius:10px; clear:both; font-size:90%;  background:white; color:black&quot;
+! style=&quot;background:#667; border:2px solid #334; color:#FFFFFF; -moz-border-radius:10px;&quot;| '''&lt;span style=&quot;color:white;&quot;&gt;&lt;font color=white&gt;In-universe songs&lt;/font&gt;&lt;/span&gt;''' 
+|-
+! [[Smelly Wolf]] • [[Marinette &amp; the Bakery]] • [[Cat in the Night]] • [[Brand New Day]] • [[The Boy That I Secretly Love]] • [[Bad Santa Claws]] • [[We All Have the Right]] • [[Mirokulous]] • [[I Love Unicorns]] • [[Big Bang]]
+|-
+{| class=&quot;mw-collapsible mw-collapsed&quot; width=&quot;100%&quot; style=&quot;text-align:center; -moz-border-radius:10px; clear:both; font-size:90%;  background:white; color:black&quot;
+! style=&quot;background:#667; border:2px solid #334; color:#FFFFFF; -moz-border-radius:10px;&quot;| '''&lt;span style=&quot;color:white;&quot;&gt;&lt;font color=white&gt;Promotional songs&lt;/font&gt;&lt;/span&gt;''' 
+|-
+! [[Here Comes Ladybug]] • [[Ladybug PV Song]] • [[Ladybug 2D Trailer Song]] • [[Miraculous - Laura Marano music video]] • [[Miraculous - Lou and Lenni Kim music video]] • [[My Christmas Wish]] • [[It's Gonna Be a Miraculous Christmas]]
+|-
+|}
+&lt;noinclude&gt;[[Category:Navboxes]][[Category:Templates]]&lt;/noinclude&gt;</text>
+      <sha1>ddgym5tkmbnlmnwfqj9tvfvfazt58s6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Games</title>
+    <ns>10</ns>
+    <id>15113</id>
+    <revision>
+      <id>412655</id>
+      <parentid>362071</parentid>
+      <timestamp>2019-04-07T12:12:12Z</timestamp>
+      <contributor>
+        <username>Anıl Çezik</username>
+        <id>36498579</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1486">{|width=&quot;100%&quot; style=&quot;text-align:center; clear:both; background-color:#000000;&quot;
+|
+{|class=&quot;mw-collapsible mw-collapsed&quot; width=&quot;100%&quot; style=&quot;text-align:center; clear:both; -moz-border-radius:10px; font-size:88%; background-color:#161616; color:white&quot; 
+!&lt;span style=&quot;float:left;&quot; class=&quot;plainlinks&quot;&gt;&lt;font style=&quot;font-size:8px; color:white;&quot;&gt; [[Template:Games|&lt;span style=&quot;color:white;&quot;&gt;v&lt;/span&gt;]] • [{{fullurl:Template:Games|action=edit}} &lt;span style=&quot;color:white;&quot;&gt;e&lt;/span&gt;]&lt;/font&gt;&lt;/span&gt;Games
+|-
+|-style=&quot;background:#000000; -moz-border-radius:10px&quot;
+|
+{| class=&quot;mw-collapsible mw-collapsed&quot; width=&quot;100%&quot; style=&quot;text-align:center; -moz-border-radius:10px; clear:both; font-size:90%;  background:white; color:black&quot;
+! style=&quot;background:#993399; border:2px solid #660066; color:#FFFFFF; -moz-border-radius:10px;&quot;| '''&lt;span style=&quot;color:#FFFFFF; font-size:100%&quot;&gt;Video games&lt;/span&gt;''' 
+|-
+! [[Super Lady Luck]] • [[Miraculous Ladybug &amp; Cat Noir]] • [[Miraculous Mission Ladybug]] • [[Super Penguino]] • [[Ladybug Contra os Vilões]]
+|-
+{| class=&quot;mw-collapsible mw-collapsed&quot; width=&quot;100%&quot; style=&quot;text-align:center; -moz-border-radius:10px; clear:both; font-size:90%;  background:white; color:black&quot;
+! style=&quot;background:#993399; border:2px solid #660066; color:#FFFFFF; -moz-border-radius:10px;&quot;|'''&lt;span style=&quot;color:#FFFFFF; font-size:100%&quot;&gt;Card games&lt;/span&gt;'''
+|-
+! [[Throwdown!]]
+|}
+|}
+|}
+&lt;noinclude&gt;[[Category:Navboxes]]&lt;/noinclude&gt;
+&lt;includeonly&gt;[[Category:Games]]&lt;/includeonly&gt;</text>
+      <sha1>fyxoyg2unwsd9yo9jlka8au8arb4ohr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Youmay</title>
+    <ns>10</ns>
+    <id>14119</id>
+    <revision>
+      <id>439877</id>
+      <parentid>439669</parentid>
+      <timestamp>2019-07-07T21:06:09Z</timestamp>
+      <contributor>
+        <username>Grsaar11</username>
+        <id>35336265</id>
+      </contributor>
+      <minor/>
+      <comment>Making the background and border colors match</comment>
+      <text xml:space="preserve" bytes="240">{|style=&quot;background: #f25fd; border: 2px solid #DDE; border-radius: 5px; background:#DDE; margin-bottom:8px; padding: 0px 8px;&quot; align=&quot;center&quot;
+|-
+|align=center|&lt;small&gt;This article is about {{{1}}}. You may be looking for {{{2}}}.&lt;/small&gt;
+|}</text>
+      <sha1>tp008wm0lcauuex7xuvjr5zh8ixfi78</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:Merchandise</title>
+    <ns>10</ns>
+    <id>18305</id>
+    <revision>
+      <id>362073</id>
+      <parentid>221914</parentid>
+      <timestamp>2018-12-13T02:25:45Z</timestamp>
+      <contributor>
+        <username>Inkflight</username>
+        <id>28080187</id>
+      </contributor>
+      <comment>Recoloring!</comment>
+      <text xml:space="preserve" bytes="2372">{|width=&quot;100%&quot; style=&quot;text-align:center; clear:both; background-color:#000000;&quot;
+|
+{|class=&quot;mw-collapsible mw-collapsed&quot; width=&quot;100%&quot; style=&quot;text-align:center; clear:both; -moz-border-radius:10px; font-size:88%; background-color:#161616; color:#FFFFFF&quot; 
+!&lt;span style=&quot;float:left;&quot; class=&quot;plainlinks&quot;&gt;&lt;font style=&quot;font-size:8px; color:#fff;&quot;&gt; [[Template:Merchandise|&lt;span style=&quot;color:#fff;&quot;&gt;v&lt;/span&gt;]] • [{{fullurl:Template:Merchandise|action=edit}} &lt;span style=&quot;color:#fff;&quot;&gt;e&lt;/span&gt;]&lt;/font&gt;&lt;/span&gt;Merchandise
+|-
+|-style=&quot;background:#000000; -moz-border-radius:10px&quot;
+|
+{| class=&quot;mw-collapsible mw-collapsed&quot; width=&quot;100%&quot; style=&quot;text-align:center; -moz-border-radius:10px; clear:both; font-size:90%;  background:white; color:black&quot;
+! style=&quot;background:#667; border:2px solid #334; color:#FFFFFF; -moz-border-radius:10px;&quot;| '''&lt;span style=&quot;color:#FFFFFF; font-size:100%&quot;&gt;DVD&lt;/span&gt;''' 
+|-
+! [[DVD vol. 1]] • [[DVD vol. 2]] • [[DVD vol. 3]] • [[DVD vol. 4]] • [[Miraculous: Tales Of Ladybug &amp; Cat Noir: Season One (DVD)|Season 1]]
+|-
+{| class=&quot;mw-collapsible mw-collapsed&quot; width=&quot;100%&quot; style=&quot;text-align:center; -moz-border-radius:10px; clear:both; font-size:90%;  background:white; color:black&quot;
+! style=&quot;background:#667; border:2px solid #334; color:#FFFFFF; -moz-border-radius:10px;&quot;| '''&lt;span style=&quot;color:#FFFFFF; font-size:100%&quot;&gt;Toys&lt;/span&gt;''' 
+|-
+! [[List of toys]]
+|-
+{| class=&quot;mw-collapsible mw-collapsed&quot; width=&quot;100%&quot; style=&quot;text-align:center; -moz-border-radius:10px; clear:both; font-size:90%;  background:white; color:black&quot;
+! style=&quot;background:#667; border:2px solid #334; color:#FFFFFF; -moz-border-radius:10px;&quot;| '''&lt;span style=&quot;color:#FFFFFF; font-size:100%&quot;&gt;Clothes &amp; Accessories&lt;/span&gt;''' 
+|-
+! [[List of clothing and accessories]]
+|-
+{| class=&quot;mw-collapsible mw-collapsed&quot; width=&quot;100%&quot; style=&quot;text-align:center; -moz-border-radius:10px; clear:both; font-size:90%;  background:white; color:black&quot;
+! style=&quot;background:#667; border:2px solid #334; color:#FFFFFF; -moz-border-radius:10px;&quot;| '''&lt;span style=&quot;color:#FFFFFF; font-size:100%&quot;&gt;Miscellaneous&lt;/span&gt;''' 
+|-
+! [[Throwdown!]] • [[Miraculous Ladybug Christmas Album]] • [[Miraculous Pop! Figures]] • [[Miraculous (Les aventures de Ladybug et Chat Noir) - Single]]
+|-
+|}
+&lt;noinclude&gt;[[Category:Navboxes]][[Category:Templates]]&lt;/noinclude&gt;
+&lt;includeonly&gt;[[Category:Merchandise]]&lt;/includeonly&gt;</text>
+      <sha1>8e3ow2azm5aeg2ougjgloryemj07k26</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:PD</title>
+    <ns>10</ns>
+    <id>1492</id>
+    <revision>
+      <id>3502</id>
+      <timestamp>2013-10-14T22:46:02Z</timestamp>
+      <contributor>
+        <username>Default</username>
+        <id>49312</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision</comment>
+      <text xml:space="preserve" bytes="238">&lt;div class=&quot;boilerplate&quot; id=&quot;c-fairuse&quot; style=&quot;width:90%; margin:0 auto; padding:10px; border:1px solid #A8ACA8; background:#FFFFCC; color:#000;&quot;&gt;
+'''''This file is in the public domain'''''
+&lt;/div&gt;&lt;noinclude&gt;
+{{documentation}}&lt;/noinclude&gt;</text>
+      <sha1>ticbbi0deizsrk81hzs81fd4ctr18nr</sha1>
+    </revision>
+  </page>
+</mediawiki>

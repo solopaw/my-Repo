@@ -1,0 +1,177 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Miraculous Ladybug Wiki</sitename>
+    <dbname>ladybug604</dbname>
+    <base>https://miraculousladybug.fandom.com/wiki/Miraculous_Ladybug_Wiki</base>
+    <generator>MediaWiki 1.19.24</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Miraculous Ladybug Wiki</namespace>
+      <namespace key="5" case="first-letter">Miraculous Ladybug Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="110" case="first-letter">Forum</namespace>
+      <namespace key="111" case="first-letter">Forum talk</namespace>
+      <namespace key="500" case="first-letter">User blog</namespace>
+      <namespace key="501" case="first-letter">User blog comment</namespace>
+      <namespace key="502" case="first-letter">Blog</namespace>
+      <namespace key="503" case="first-letter">Blog talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1200" case="first-letter">Message Wall</namespace>
+      <namespace key="1201" case="first-letter">Thread</namespace>
+      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
+      <namespace key="2000" case="first-letter">Board</namespace>
+      <namespace key="2001" case="first-letter">Board Thread</namespace>
+      <namespace key="2002" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Category:Videos</title>
+    <ns>14</ns>
+    <id>2033</id>
+    <revision>
+      <id>3877</id>
+      <timestamp>2013-10-14T22:46:02Z</timestamp>
+      <contributor>
+        <username>Default</username>
+        <id>49312</id>
+      </contributor>
+      <comment>New category structure. These show up as reds on a huge amount of wikis</comment>
+      <text xml:space="preserve" bytes="48">'''Videos''' on {{SITENAME}}.
+[[Category:Files]]</text>
+      <sha1>a9qu166y0vubcremg1lle5a8ltlfv7p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:Example.jpg</title>
+    <ns>6</ns>
+    <id>2031</id>
+    <revision>
+      <id>248329</id>
+      <parentid>2782</parentid>
+      <timestamp>2018-04-10T04:56:19Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Replacing [[Category:Images|Images]] with [[Category:Files|Files]] (automatic)</comment>
+      <text xml:space="preserve" bytes="129">Cropped and resized from [[Commons:Image:LotusBud0048a.jpg]]
+
+*Photographer: [[Commons:User:Fg2|Fg2]]
+
+{{PD}}
+
+[[Category:Files]]</text>
+      <sha1>hh12w14ss3j3t1vadx3fpvg94625fl5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Merchandise images</title>
+    <ns>14</ns>
+    <id>76548</id>
+    <revision>
+      <id>248328</id>
+      <parentid>173086</parentid>
+      <timestamp>2018-04-10T04:56:19Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Replacing [[Category:Images|Images]] with [[Category:Files|Files]] (automatic)</comment>
+      <text xml:space="preserve" bytes="53">Parent for all merchandise images.
+[[Category:Files]]</text>
+      <sha1>8xzqjrygzc4q8xfokym688k4qbba91p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Episode Images</title>
+    <ns>14</ns>
+    <id>107380</id>
+    <revision>
+      <id>248327</id>
+      <parentid>248325</parentid>
+      <timestamp>2018-04-10T04:56:18Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Replacing [[Category:Images|Images]] with [[Category:Files|Files]] (automatic)</comment>
+      <text xml:space="preserve" bytes="85">This is a category that contains all the episode image categories.
+[[Category:Files]]</text>
+      <sha1>p28nanb1us1vnjx6sp6kwdgu4dc13rm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>File:Forum new.gif</title>
+    <ns>6</ns>
+    <id>1482</id>
+    <revision>
+      <id>248330</id>
+      <parentid>3983</parentid>
+      <timestamp>2018-04-10T04:56:20Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Replacing [[Category:Images|Images]] with [[Category:Files|Files]] (automatic)</comment>
+      <text xml:space="preserve" bytes="153">*'''Description:''' Image from the Mini icon theme by Mark James
+*'''Source:''' http://www.famfamfam.com/lab/icons/mini/
+&lt;br /&gt;
+{{PD}}
+[[Category:Files]]</text>
+      <sha1>b8eewqhr4upsvq8xtsrpq46yl0q1uix</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Category:Site Images</title>
+    <ns>14</ns>
+    <id>107387</id>
+    <revision>
+      <id>248338</id>
+      <timestamp>2018-04-10T05:07:04Z</timestamp>
+      <contributor>
+        <username>Robyn Grayson</username>
+        <id>26939370</id>
+      </contributor>
+      <comment>Created page with &quot;List of all Wikia files used on the site. [[Category:Files]]&quot;</comment>
+      <text xml:space="preserve" bytes="60">List of all Wikia files used on the site.
+[[Category:Files]]</text>
+      <sha1>0uiuhjj5zlbs0l5sb0ur0jf4dot1wxv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Template:PD</title>
+    <ns>10</ns>
+    <id>1492</id>
+    <revision>
+      <id>3502</id>
+      <timestamp>2013-10-14T22:46:02Z</timestamp>
+      <contributor>
+        <username>Default</username>
+        <id>49312</id>
+      </contributor>
+      <minor/>
+      <comment>1 revision</comment>
+      <text xml:space="preserve" bytes="238">&lt;div class=&quot;boilerplate&quot; id=&quot;c-fairuse&quot; style=&quot;width:90%; margin:0 auto; padding:10px; border:1px solid #A8ACA8; background:#FFFFCC; color:#000;&quot;&gt;
+'''''This file is in the public domain'''''
+&lt;/div&gt;&lt;noinclude&gt;
+{{documentation}}&lt;/noinclude&gt;</text>
+      <sha1>ticbbi0deizsrk81hzs81fd4ctr18nr</sha1>
+    </revision>
+  </page>
+</mediawiki>
